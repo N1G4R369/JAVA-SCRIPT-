@@ -1,0 +1,1 @@
+const fileInpot = document.querySelector("input")
